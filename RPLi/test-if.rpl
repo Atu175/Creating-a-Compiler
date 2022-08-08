@@ -1,0 +1,15 @@
+#  Author:  Deanna M. Wilborne
+# College:  Berea College
+#  Course:  CSC386 Fall 2021
+# Purpose:  A test RPL program to test the if keyword
+# History:
+#           2021-10-04, DMW, created
+
+17 19 true if
+print
+17 19 false if
+print
+"Hello" "World" -1 -1 == if
+print
+"Goodbye" "World" 5 -5 == if
+print

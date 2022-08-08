@@ -1,0 +1,4 @@
+begin
+    a := sin(25);
+    writeln(a)
+end.

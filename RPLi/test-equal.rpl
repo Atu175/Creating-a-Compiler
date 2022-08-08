@@ -1,0 +1,13 @@
+#  Author:  Deanna M. Wilborne
+# College:  Berea College
+#  Course:  CSC386 Fall 2021
+# Purpose:  A test RPL program that tests the equality comparison operator
+# History:
+#           2021-10-04, DMW, created
+
+4 5 ==
+print
+-1 -1 ==
+print
+"X" 5 ==
+print

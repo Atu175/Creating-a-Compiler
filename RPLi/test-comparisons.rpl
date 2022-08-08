@@ -1,0 +1,22 @@
+#  Author:  Deanna M. Wilborne
+# College:  Berea College
+#  Course:  CSC386 Fall 2021
+# Purpose:  A test RPL program to test comparison operators
+# History:
+#           2021-10-04, DMW, created
+
+1 5 !=
+2 2 !=
+"Hello" "Hello" !=
+"Hello" "World" !=
+"-----"
+4 5 <
+5 4 <
+4 5 >
+5 4 >
+"-----"
+8 9 <=
+9 8 <=
+-1 5 >=
+5 5 >=
+stack

@@ -1,0 +1,4 @@
+begin
+    a := ifthen( 1 < 2, 3, 4);
+    writeln(a)
+end.

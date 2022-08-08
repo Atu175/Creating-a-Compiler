@@ -1,0 +1,12 @@
+#  Author:  Deanna M. Wilborne
+# College:  Berea College
+#  Course:  CSC386 Fall 2021
+# Purpose:  A test RPL program to show the raw stack
+# History:
+#           2021-10-04, DMW, created
+
+17
+19
+"Hello"
+"World"
+stack

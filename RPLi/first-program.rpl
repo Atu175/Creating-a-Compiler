@@ -1,0 +1,9 @@
+#  Author:  Deanna M. Wilborne
+# College:  Berea College
+#  Course:  CSC386 Fall 2021
+# Purpose:  Our first simple test program
+# History:
+#           2021-10-04, DMW, created
+
+4 5 +
+print
